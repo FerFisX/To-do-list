@@ -1,2 +1,9 @@
-# To-do-list
-In this project we are using Flet to create movil apps with Python!
+# A todo Flet app
+
+An example of a minimal Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
